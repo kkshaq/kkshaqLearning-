@@ -1,1 +1,1 @@
-###Neural network
+# Training LeNet on MNIST with Caffe
